@@ -18,5 +18,8 @@
     <ClCompile Include="ParadigmaOOP_051.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="asosiasi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
