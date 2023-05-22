@@ -131,6 +131,9 @@
     <ClCompile Include="main1a.cpp" />
     <ClCompile Include="ParadigmaOOP_051.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="b anank.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
