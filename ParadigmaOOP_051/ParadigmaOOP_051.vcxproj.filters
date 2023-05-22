@@ -21,5 +21,8 @@
     <ClCompile Include="asosiasi.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="main1a.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
